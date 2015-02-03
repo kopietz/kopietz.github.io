@@ -6,4 +6,4 @@ MathJax.Hub.Config({
   }
 });
 
-MathJax.Ajax.loadComplete("http://dev.kopietz.org/mathjax/config.js");
+MathJax.Ajax.loadComplete("http://git.adk.systems/mathjax/config.js");
